@@ -42,11 +42,6 @@ I'm a developer learning by building and contributing to open source.
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=JayadityaGit&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://nirzak-streak-stats.vercel.app/?user=JayadityaGit&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JayadityaGit&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 ---
 
 ## 🏆 GitHub Trophies
@@ -64,10 +59,5 @@ I'm a developer learning by building and contributing to open source.
   <img src="https://raw.githubusercontent.com/JayadityaGit/JayadityaGit/main/github-user-contribution.svg" />
 </p>
 
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=JayadityaGit&icon=0&color=0" />
-</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
