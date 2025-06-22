@@ -42,22 +42,25 @@ I'm a developer learning by building and contributing to open source.
 
 ---
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=JayadityaGit&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 ---
+
+
+### 🧮 Contributions Graph
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JayadityaGit/JayadityaGit/main/github-user-contribution.svg" />
+</p>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=JayadityaGit&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=JayadityaGit&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
 
-### 🧮 Contributions Graph
-<p align="center">
-  <img src="https://raw.githubusercontent.com/JayadityaGit/JayadityaGit/main/github-user-contribution.svg" />
-</p>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
