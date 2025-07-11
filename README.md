@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/JayadityaGit/JayadityaGit/main/bruce.gif" width="400" alt="Bruce Lee vibes" />
-</p>
-
 # 💫 About Me:
 ### Hi, I'm Jayaditya 👋  
 I'm a developer learning by building and contributing to open source.
