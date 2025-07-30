@@ -1,5 +1,5 @@
 <img 
   src="https://github.com/user-attachments/assets/d2264ddf-c299-4787-b4d6-febee0fb2755" 
   alt="readme" 
-  style="width: 70vw; height: 40vw; object-fit: cover;" 
+  style="width: 70vw; height: 35vw; object-fit: cover;" 
 />
