@@ -10,6 +10,7 @@ I build impactful open-source solutions in **healthcare technology** and **devel
 
 ### 🤖 Google Gemini CLI  
 - [**Ctrl+C keybind to cancel streaming & pending tool calls**](https://github.com/google-gemini/gemini-cli/pull/5838) → merged into the official CLI.  
+- [**Pro quota dialog for free users**](https://github.com/google-gemini/gemini-cli/pull/7094) → helps reduce friction when Pro quota is exceeded.  
 - Enhanced developer experience with usability improvements in the CLI tool.  
 
 ### 🏥 OpenMRS (Open Medical Record System)  
