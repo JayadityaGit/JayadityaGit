@@ -11,13 +11,14 @@ I build impactful open-source solutions in **healthcare technology** and **devel
 ### 🤖 Google Gemini CLI  
 - [**Ctrl+C keybind to cancel streaming & pending tool calls**](https://github.com/google-gemini/gemini-cli/pull/5838) → merged into the official CLI.  
 - [**Pro quota dialog for free users**](https://github.com/google-gemini/gemini-cli/pull/7094) → helps reduce friction when Pro quota is exceeded.  
+- [**Custom witty loading messages**](https://github.com/google-gemini/gemini-cli/pull/7641) → enables user-defined witty phrases for CLI loading screens.  
 - Enhanced developer experience with usability improvements in the CLI tool.  
 
 ### 🏥 OpenMRS (Open Medical Record System)  
 - **Core contributor** to [openmrs-esm-user-onboarding](https://github.com/openmrs/openmrs-esm-user-onboarding).  
 - Frontend/UI fixes and enhancements in [openmrs-esm-patient-management](https://github.com/openmrs/openmrs-esm-patient-management):  
   - [Fix: Patient list tutorial attribute](https://github.com/openmrs/openmrs-esm-patient-management/pull/1761)  
-  - [Refactor: Updated links in patient list](https://github.com/openmrs/openmrs-esm-patient-management/pull/1925)  
+  - [Refactor: Updated links in patient list & fixed styling in refine search](https://github.com/openmrs/openmrs-esm-patient-management/pull/1925)  
 - Additional contributions across OpenMRS microfrontends and backend modules.  
 - [OpenMRS Talk Profile](https://talk.openmrs.org/u/backloguy/summary)  
 
@@ -32,7 +33,7 @@ I build impactful open-source solutions in **healthcare technology** and **devel
 
 ## 🌍 About Me  
 - 📍 Visakhapatnam, India  
-- 📧 opensouceaditya@gmail.com   
+- 📧 opensourceaditya@proton.me  
 - 🎯 Focused on building **digital public goods** and **scalable open-source solutions**  
 
 ---
