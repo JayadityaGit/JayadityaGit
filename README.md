@@ -16,8 +16,6 @@
 
 
 ## 🌍 About Me
-
-* 📍 Visakhapatnam, India
 * 📧 [opensourceaditya@proton.me](mailto:opensourceaditya@proton.me)
 * A 21-year-old explorer of all things open source ✨
 
