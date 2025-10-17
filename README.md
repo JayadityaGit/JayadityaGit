@@ -1,4 +1,3 @@
-# 👋 Hi, I’m Jayaditya (21 yrs)
 ## 🚀 Key Contributions
 
 ### 🤖 Google Gemini CLI
