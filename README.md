@@ -1,5 +1,3 @@
-## 🚀 Key Contributions
-
 ### 🤖 Google Gemini CLI
 
 * [**Ctrl+C keybind to cancel streaming & pending tool calls**](https://github.com/google-gemini/gemini-cli/pull/5838) → merged into the official CLI.
@@ -21,5 +19,5 @@
 
 * 📍 Visakhapatnam, India
 * 📧 [opensourceaditya@proton.me](mailto:opensourceaditya@proton.me)
-* ❤️ I just **love open source** 🚀✨
+* A 21-year-old explorer of all things open source ✨
 
