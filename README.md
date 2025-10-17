@@ -11,8 +11,8 @@
 ### 🏥 OpenMRS (Open Medical Record System)
 
 * **Core contributor** to [openmrs-esm-user-onboarding](https://github.com/openmrs/openmrs-esm-user-onboarding).
-* [OpenMRS Jira Profile](https://home.atlassian.com/o/fb774304-cf17-46e4-a523-93df1756665f/people/712020:3e36510c-6cd0-4d03-aeed-c287e547d6db?cloudId=1fc7c3fe-ab39-46a8-8f76-6410d1ed4493)
 * [OpenMRS Talk Profile](https://talk.openmrs.org/u/backloguy/summary)
+* 😅 Too many OpenMRS contributions — the graph tells the story!
 
 
 ## 🌍 About Me
