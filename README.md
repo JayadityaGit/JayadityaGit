@@ -8,7 +8,7 @@
 * [**Add humorous tip about newline shortcut (Ctrl+J / Alt+Enter)**](https://github.com/google-gemini/gemini-cli/pull/5666) → helps new users insert new lines correctly and avoid executing half-typed commands.
 * Various documentation updates and bug fixes throughout the CLI.
 
-### Open Medical Record System (GSOC org)  🏥 
+### OpenMRS (GSOC org)  🏥 
 
 * **Core contributor** to [openmrs-esm-user-onboarding](https://github.com/openmrs/openmrs-esm-user-onboarding).
 * [OpenMRS Talk Profile](https://talk.openmrs.org/u/backloguy/summary)
