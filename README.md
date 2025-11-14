@@ -1,4 +1,4 @@
-[![An image of @jayadityagit's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jayadityagit)](https://holopin.io/@jayadityagit)
+
 
 ###  Google Gemini CLI 👾
 
@@ -21,3 +21,4 @@
 * A 21-year-old explorer of all things open source ✨
 * 📧 [opensourceaditya@proton.me](mailto:opensourceaditya@proton.me)
 
+[![An image of @jayadityagit's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jayadityagit)](https://holopin.io/@jayadityagit)
