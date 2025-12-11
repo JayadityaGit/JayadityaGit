@@ -16,11 +16,10 @@
 ### OpenMRS 🏥 
 
 * **Core contributor** to [openmrs-esm-user-onboarding](https://github.com/openmrs/openmrs-esm-user-onboarding).
-* [OpenMRS Talk Profile](https://talk.openmrs.org/u/backloguy/summary)
-* 😅 Too many OpenMRS contributions — the graph tells the story!
+* And a lot of diffrent types of contributions in various repos.
 
 
 #### About Me 🧑‍💻
-* A 22-year-old explorer of all things open source ✨
-* 📧 [opensourceaditya@proton.me](mailto:opensourceaditya@proton.me)
+* Love with open source ✨
+* contact me to know more about me :-[opensourceaditya@proton.me](mailto:opensourceaditya@proton.me)
 
