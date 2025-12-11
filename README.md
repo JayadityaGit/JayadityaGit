@@ -20,6 +20,6 @@
 
 
 #### About Me 🧑‍💻
-* Love with open source ✨
-* contact me to know more about me :-[opensourceaditya@proton.me](mailto:opensourceaditya@proton.me)
+* 22yr old Love with open source ✨
+* you can reach me out :-[opensourceaditya@proton.me](mailto:opensourceaditya@proton.me)
 
