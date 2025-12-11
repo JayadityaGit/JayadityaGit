@@ -10,8 +10,8 @@
 * [**Custom witty loading messages**](https://github.com/google-gemini/gemini-cli/pull/7641) → enables user-defined loading phrases.
 * [**Add “Esc to close” hint**](https://github.com/google-gemini-gemini/cli/pull/11289) → improves dialog discoverability.
 * [**Uninstall multiple extensions**](https://github.com/google-gemini/gemini-cli/pull/13016) → adds CLI support for removing several extensions in one command.
-* [**Show tip on first request & refactor loading phrases**](https://github.com/google-gemini/gemini-cli/pull/12952) → adds a friendly first-time tip and reorganizes witty/loading phrases into constants.
-* And various documentation updates and tiny contributions here and there 🌟
+* [**Show tip on first request & refactor loading phrases**](https://github.com/google-gemini/gemini-cli/pull/12952) → adds a friendly first-time tip and reorganizes witty/loading phrases.
+* And various documentation updates and tiny contributions🌟
 
 
 
