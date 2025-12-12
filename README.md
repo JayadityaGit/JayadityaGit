@@ -23,5 +23,5 @@
 
 
 #### About Me 🧑‍💻
-* 22yr old in Love with open source ✨
+* Love with open source and Love making memes ✨
 * you can reach me out :-[opensourceaditya@proton.me](mailto:opensourceaditya@proton.me)
