@@ -8,7 +8,6 @@
 * [**‘extension explore’ subcommand**](https://github.com/google-gemini/gemini-cli/pull/11846)
 * [**Blend educative tips with witty phrases**](https://github.com/google-gemini/gemini-cli/pull/10569)
 * [**Custom witty loading messages**](https://github.com/google-gemini/gemini-cli/pull/7641)
-* [**Add “Esc to close” hint**](https://github.com/google-gemini-gemini/cli/pull/11289)
 * [**Uninstall multiple extensions**](https://github.com/google-gemini/gemini-cli/pull/13016)
 * [**Show tip on first request & refactor loading phrases**](https://github.com/google-gemini/gemini-cli/pull/12952)
 * And various documentation updates and tiny contributions🌟
