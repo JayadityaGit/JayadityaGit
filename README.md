@@ -14,6 +14,12 @@
 
 
 
+### Linux Mint 🐧
+
+* Contributed to the **Cinnamon desktop environment**, improving real-world Linux user experience.  
+  🔊 Enhanced the **sound icon click behavior** — making volume interactions more intuitive and consistent for everyday users.  
+  🔗 https://github.com/linuxmint/cinnamon/pull/13054
+
 
 ### OpenMRS 🏥 
 
