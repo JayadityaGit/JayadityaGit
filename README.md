@@ -3,7 +3,7 @@
 </p>
 
 
-I've contributed to the Google Gemini CLI ecosystem through features, fixes, refactors, and documentation improvements.
+Every contribution here started with me independently identifying problems, discussing solutions with the team, and collaborating through implementation, fixes, refactors, and documentation improvements.
 
 #### 🛠️ Contributions
 > Hover on the PR links to get more info about the changes.
