@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://holopin.io/@jayadityagit">
-    <img src="https://holopin.me/jayadityagit" alt="Holopin badges"/>
-  </a>
-</p>
-
 
 <p align="left">
   <img width="72" height="72" alt="geminicli-color" src="https://github.com/user-attachments/assets/6602677c-aab5-4c3c-8d88-066d7c32cdfe" />
