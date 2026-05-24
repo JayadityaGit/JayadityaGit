@@ -1,14 +1,21 @@
-<p align="left">
-  <a href="https://geminicli.com/">
-    <img width="72" height="72" alt="geminicli-color" src="https://github.com/user-attachments/assets/6602677c-aab5-4c3c-8d88-066d7c32cdfe" />
-  </a>
-</p>
+<table>
+<tr>
+<td width="90" valign="middle">
 
-### Gemini CLI
+<a href="https://geminicli.com/">
+  <img width="72" height="72" alt="geminicli-color" src="https://github.com/user-attachments/assets/6602677c-aab5-4c3c-8d88-066d7c32cdfe" />
+</a>
+
+</td>
+
+<td valign="middle">
+
 
 ***Most of my open-source work has been around Gemini CLI — independently identifying problems, discussing solutions with the team, and contributing through features, fixes, refactors, and documentation updates.***
 
-<br>
+</td>
+</tr>
+</table>
 
 #### 🛠️ Contributions
 <sub>Hover on PR links to get more info about the changes.</sub>
