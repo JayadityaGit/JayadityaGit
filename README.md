@@ -29,7 +29,6 @@
 
 <br>
 
-Also contributed to: **Linux Mint · OpenMRS · MemePalace**
 
 ### 📫 Let's Connect
 - **Email:** [opensourceaditya@proton.me](mailto:opensourceaditya@proton.me)
