@@ -5,7 +5,7 @@
 </p>
 
 
-#### 🛠️ Contributions (Independently Found Problems)
+#### 🛠️ Contributions
 > Hover on the PR links to get more info about the changes.
 
 | Category | Pull Requests |
