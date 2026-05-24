@@ -1,5 +1,7 @@
-<p align="left">
-  <img width="72" height="72" alt="geminicli-color" src="https://github.com/user-attachments/assets/6602677c-aab5-4c3c-8d88-066d7c32cdfe" />
+<p align="center">
+  <a href="https://geminicli.com/">
+    <img width="72" height="72" alt="geminicli-color" src="https://github.com/user-attachments/assets/6602677c-aab5-4c3c-8d88-066d7c32cdfe" />
+  </a>
 </p>
 
 
