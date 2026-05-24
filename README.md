@@ -4,9 +4,8 @@
   </a>
 </p>
 
-***Identified problems, discussed solutions with the gemini-cli team, and contributed through fixes, refactors, features, and documentation.***
 
-#### 🛠️ Contributions
+#### 🛠️ Contributions (Independently Finding Problems)
 > Hover on the PR links to get more info about the changes.
 
 | Category | Pull Requests |
