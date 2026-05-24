@@ -4,8 +4,7 @@
   </a>
 </p>
 
-
-***Every contribution here started with me independently identifying problems, discussing solutions with the team, and collaborating through implementation, fixes, refactors, and documentation improvements.***
+***Identified problems, discussed solutions with the gemini-cli team, and contributed through fixes, refactors, features, and documentation.***
 
 #### 🛠️ Contributions
 > Hover on the PR links to get more info about the changes.
