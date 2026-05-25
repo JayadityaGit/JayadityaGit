@@ -30,6 +30,45 @@
 <br>
 
 
+🌟 Honourable Mentions
+
+<table>
+<tr>
+
+<td align="center" width="180">
+
+<a href="https://github.com/linuxmint/cinnamon/pull/13054">
+  <img width="48" height="48" alt="Linux Mint" src="https://github.com/user-attachments/assets/2a54a25b-07a6-4843-be8d-4b15b255431e" />
+</a>
+
+<br>
+
+**Linux Mint Cinnamon**  
+Bug Fix Contribution  
+[#13054](https://github.com/linuxmint/cinnamon/pull/13054)
+
+</td>
+
+<td align="center" width="180">
+
+<a href="https://github.com/MemPalace/mempalace/pull/106">
+  <img width="72" height="72" alt="MemPalace" src="https://github.com/user-attachments/assets/200a0b55-1650-4b55-a85f-6adfc27167ef" />
+</a>
+
+<br>
+
+**MemPalace**  
+Documentation Update  
+[#106](https://github.com/MemPalace/mempalace/pull/106)
+
+</td>
+
+</tr>
+</table>
+
+
+<br>
+
 ### 📫 Let's Connect
 - **Email:** [opensourceaditya@proton.me](mailto:opensourceaditya@proton.me)
 
