@@ -11,7 +11,7 @@
 <td valign="middle">
 
 
-***Most of my open-source work has been around Gemini CLI — independently identifying problems, discussing solutions with the team, and contributing through features, fixes, refactors, and documentation updates.***
+***Most of my open-source work has been around Google Gemini CLI — independently identifying problems, discussing solutions with the team, and contributing through features, fixes, refactors, and documentation updates.***
 
 </td>
 </tr>
