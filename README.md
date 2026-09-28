@@ -69,7 +69,9 @@ Documentation Update
 
 <br>
 
+[![An image of @jayadityagit's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jayadityagit)](https://holopin.io/@jayadityagit)
+
 ### 📫 Let's Connect
 - **Email:** [opensourceaditya@proton.me](mailto:opensourceaditya@proton.me)
 
-[![An image of @jayadityagit's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jayadityagit)](https://holopin.io/@jayadityagit)
+
